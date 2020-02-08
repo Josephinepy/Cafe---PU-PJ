@@ -1,0 +1,444 @@
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Cafe.dll.config
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Cafe.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Cafe.pdb
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\csc.exe
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\csc.exe.config
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\csc.rsp
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\csi.exe
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\csi.rsp
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\System.AppContext.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\vbc.exe
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\vbc.exe.config
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\vbc.rsp
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\VBCSCompiler.exe
+C:\Users\johun\source\repos\Cafe\Cafe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Antlr3.Runtime.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\EntityFramework.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\EntityFramework.SqlServer.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Newtonsoft.Json.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Owin.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.Helpers.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.Mvc.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.Optimization.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.Razor.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.WebPages.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.WebPages.Razor.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\WebGrease.dll
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.Helpers.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.Mvc.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.Optimization.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.Razor.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.WebPages.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\System.Web.WebPages.Razor.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Newtonsoft.Json.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Antlr3.Runtime.pdb
+C:\Users\johun\source\repos\Cafe\Cafe\bin\EntityFramework.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\EntityFramework.SqlServer.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\johun\source\repos\Cafe\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\johun\source\repos\Cafe\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\johun\source\repos\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\johun\source\repos\Cafe\Cafe\obj\Debug\Cafe.csproj.CopyComplete
+C:\Users\johun\source\repos\Cafe\Cafe\obj\Debug\Cafe.dll
+C:\Users\johun\source\repos\Cafe\Cafe\obj\Debug\Cafe.pdb
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\obj\Debug\Cafe.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\obj\Debug\Cafe.pdb
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Cafe.dll.config
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Cafe.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Cafe.pdb
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\csc.exe
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\csc.exe.config
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\csc.rsp
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\csi.exe
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\csi.rsp
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\System.AppContext.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\vbc.exe
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\vbc.exe.config
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\vbc.rsp
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\VBCSCompiler.exe
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Antlr3.Runtime.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\EntityFramework.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\EntityFramework.SqlServer.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Newtonsoft.Json.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Owin.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.Helpers.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.Mvc.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.Optimization.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.Razor.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.WebPages.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.WebPages.Razor.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\WebGrease.dll
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.Helpers.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.Mvc.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.Optimization.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.Razor.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.WebPages.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\System.Web.WebPages.Razor.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Newtonsoft.Json.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Antlr3.Runtime.pdb
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\EntityFramework.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\EntityFramework.SqlServer.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\johun\Desktop\New folder\Cafe\Cafe\obj\Debug\Cafe.csproj.CopyComplete
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Cafe.dll.config
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Cafe.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Cafe.pdb
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\csc.exe
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\csc.exe.config
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\csc.rsp
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\csi.exe
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\csi.rsp
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\System.AppContext.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\vbc.exe
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\vbc.exe.config
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\vbc.rsp
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\VBCSCompiler.exe
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Antlr3.Runtime.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\EntityFramework.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\EntityFramework.SqlServer.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Newtonsoft.Json.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Owin.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.Helpers.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.Mvc.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.Optimization.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.Razor.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.WebPages.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.WebPages.Razor.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\WebGrease.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.Helpers.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.Mvc.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.Optimization.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.Razor.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.WebPages.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\System.Web.WebPages.Razor.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Newtonsoft.Json.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Antlr3.Runtime.pdb
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\EntityFramework.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\EntityFramework.SqlServer.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\obj\Debug\Cafe.csproj.CopyComplete
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\obj\Debug\Cafe.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\obj\Debug\Cafe.pdb
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\PagedList.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\PagedList.Mvc.dll
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\PagedList.xml
+C:\Users\johun\Desktop\New folder\Cafe - Copy - Copy\Cafe\bin\PagedList.Mvc.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\Josephine\Desktop\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Josephine\Desktop\Cafe\Cafe\obj\Debug\Cafe.pdb
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Cafe.dll.config
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Cafe.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Cafe.pdb
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\csc.exe
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\csc.exe.config
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\csc.rsp
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\csi.exe
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\csi.rsp
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\System.AppContext.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\vbc.exe
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\vbc.exe.config
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\vbc.rsp
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Antlr3.Runtime.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\EntityFramework.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\EntityFramework.SqlServer.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Newtonsoft.Json.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Owin.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\PagedList.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\PagedList.Mvc.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.Helpers.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.Mvc.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.Optimization.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.Razor.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.WebPages.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\WebGrease.dll
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\PagedList.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\PagedList.Mvc.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.Helpers.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.Mvc.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.Optimization.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.Razor.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.WebPages.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Newtonsoft.Json.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Antlr3.Runtime.pdb
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\EntityFramework.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\EntityFramework.SqlServer.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josephine\Desktop\Cafe\Cafe\obj\Debug\Cafe.csproj.CopyComplete
+C:\Users\Josephine\Desktop\Cafe\Cafe\obj\Debug\Cafe.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\obj\Debug\Cafe.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\obj\Debug\Cafe.pdb
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Cafe.dll.config
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Cafe.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Cafe.pdb
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\csc.exe
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\csc.exe.config
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\csc.rsp
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\csi.exe
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\csi.rsp
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\System.AppContext.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\vbc.exe
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\vbc.exe.config
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\vbc.rsp
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Antlr3.Runtime.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\EntityFramework.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\EntityFramework.SqlServer.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Newtonsoft.Json.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Owin.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\PagedList.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\PagedList.Mvc.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Helpers.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Mvc.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Optimization.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Razor.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.WebPages.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\WebGrease.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\PagedList.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\PagedList.Mvc.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Helpers.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Mvc.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Optimization.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Razor.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.WebPages.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Newtonsoft.Json.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Antlr3.Runtime.pdb
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\EntityFramework.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\EntityFramework.SqlServer.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\obj\Debug\Cafe.csproj.CopyComplete
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Net.Http.Formatting.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Http.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Http.WebHost.dll
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Net.Http.Formatting.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Http.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\System.Web.Http.WebHost.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\bin\XmlDocument.xml
+C:\Users\Josephine\Desktop\Cafe - Copy\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache

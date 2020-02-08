@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Cafe.DAL.Product>
+
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fas fa-table"></i>
+        Product
+        <a href="../Admin/ProductAdd" class="btn btn-info pull-right fa fa-plus">Add New</a>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        int count = 1;
+                        <tr>
+                            <td>@count</td>
+                            <td><img src="~/images/@item.ProductImage" width="50" height="50" /></td>
+                            <td>@item.ProductName</td>
+                            <td>@item.Price</td>
+                            <td>@item.Quantity</td>
+                            <td>
+                                @*@using (Html.BeginForm("Edit", "ProductEdit", FormMethod.Post, new { @class = "Edit" }))
+                    {
+                        @Html.Hidden("Id", item.ProductID)
+                        <input type="submit" value="Edit" class="btn btn-default" />
+                    }*@
+                                @Html.ActionLink("Edit", "ProductEdit", new { ProductID = item.ProductId })
+                                @Html.ActionLink("Delete", "ProductDelete", new { ProductID = item.ProductId })
+
+                                @*@using (Html.BeginForm("ProductDelete", "Product", FormMethod.Post, new { @class = "Delete" }))
+                    {
+                        @Html.Hidden("ProductID", item.productId)
+                        <input type="submit" value="Delete" class="btn btn-default" />
+                    }*@
+                            </td>
+                        </tr>
+                    }
+                    
+              
+                    
+
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
